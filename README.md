@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Kubernetes, Python & Linux scripting, and cloud services.
-- 🌱 I’m currently learning tools related to DevOps like AWS and MERN stack.
+- 🌱 I’m currently learning tools related to DevOps like AWS.
 - 👯 I’m looking to collaborate on kubernetes and DevOps.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mhassaankhokhar/">My Linkedin Profile</a>.
 <!-- - ⚡ Fun fact:  -->
