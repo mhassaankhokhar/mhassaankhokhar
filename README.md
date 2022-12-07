@@ -7,9 +7,14 @@
 - 🔭 I’m currently working on Kubernetes, Python & Linux scripting, and cloud services.
 - 🌱 I’m currently learning tools related to DevOps like AWS.
 - 👯 I’m looking to collaborate on kubernetes and DevOps.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/mhassaankhokhar/">My Linkedin Profile</a>.
 <!-- - ⚡ Fun fact:  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<div align=center>
+        <a href="https://www.linkedin.com/in/mhassaankhokhar/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>      
+        <a href="https://stackoverflow.com/users/15378038/mhassaankhokhar"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+        <a href="https://www.quora.com/profile/mhassaankhokhar"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
+        <a href="https://t.me/mhassaankhokhar"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+    </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
 
@@ -19,11 +24,3 @@
 
 </a>
 </div>
-
-
-<div align=center>
-        <a href="https://www.linkedin.com/in/mhassaankhokhar/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>      
-        <a href="https://stackoverflow.com/users/15378038/mhassaankhokhar"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href="https://www.quora.com/profile/mhassaankhokhar"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
-        <a href="https://t.me/mhassaankhokhar"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
-    </div>
