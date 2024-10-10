@@ -8,7 +8,7 @@
 <br>
 
 - 🔭 I’m currently working on Kubernetes, Python & Linux scripting, and cloud services.
-- 🌱 I’m currently learning tools related to DevOps like AWS.
+- 🌱 I’m currently learning language related to DevOps like Golang.
 - 👯 I’m looking to collaborate on kubernetes and DevOps.
 <!-- - ⚡ Fun fact:  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
