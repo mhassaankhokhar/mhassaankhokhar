@@ -5,7 +5,7 @@
         <a href="https://t.me/mhassaankhokhar"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
 </div>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-<br>
+
 
 - 🔭 I’m currently working on Kubernetes, Python & Linux scripting, and cloud services.
 - 🌱 I’m currently learning language related to DevOps like Golang.
